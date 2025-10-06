@@ -40,9 +40,9 @@ This project helped me strengthen my *frontend fundamentals* and improve my *des
 
 ## 🧑‍💻 Author
 
-*Azhar Khan*  
+*Aditya Kumar*  
 Frontend Developer (HTML, CSS, JS, React)  
 Backend: Java, Spring Boot, Spring Security, JWT  
 
-📬 Reach me at: azharkhan75447355@gmail.com  
+📬 Reach me at: waditya2345@gmail.com  
 🌍 Portfolio: https://azharfolio.netlify.app
